@@ -1,8 +1,8 @@
-### Majangga Project Portfolio
+# Majangga Project Portfolio
 Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
 
-**Email      : majanggaabdullah@gmail.com**
-**Linkedin   : www.linkedin.com/in/majangga/**
+Email      : majanggaabdullah@gmail.com
+Linkedin   : www.linkedin.com/in/majangga/
 **Information Systems graduate with internship experience in data management and big data at a major company. I am interested in working with data and currently gaining applicable job skills as a Data Analyst skilled in SQL, Python, Machine Learning, Data modeling, EDA and Data Visualization. Effective communicator and critical thinker, dedicated to continuous learning and professional growth.**
 <!--
 **poperahatui/poperahatui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
